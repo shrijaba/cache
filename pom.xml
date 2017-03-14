@@ -57,7 +57,7 @@
 		<configuration>
 			<url>http://localhost:8081/manager/text</url>
 			<server>mytomcat</server>
-			<path>/cacheImplement3</path>
+			<path>/cacheImplement</path>
 		</configuration>
 	  </plugin>
 	</plugins>
